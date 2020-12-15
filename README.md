@@ -15,7 +15,7 @@ The following types of questions are currently available:
 The site consists of .aspx pages in C# and a QuizParser, a Visual Studio Solution, to handle parsing and output 
 of the questions.
 
-A live installation is available at [https://ed.oc.edu/blackboardquizgenerator/Default.aspx]() which includes 
+A live installation is available at [https://ed.oc.edu/blackboardquizgenerator/Default.aspx](https://ed.oc.edu/blackboardquizgenerator/Default.aspx) which includes 
 sample syntax and instructions.
 
 Pull requests and suggestions welcome. 
